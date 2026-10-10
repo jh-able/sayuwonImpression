@@ -1,8 +1,8 @@
 {
-  apiKey: "AIzaSyAa79D1lwfKEHMCLRUgLxm7f9oLG9FeDI8",
-  authDomain: "sayuwon-impression.firebaseapp.com",
-  projectId: "sayuwon-impression",
-  storageBucket: "sayuwon-impression.firebasestorage.app",
-  messagingSenderId: "155403114201",
-  appId: "1:155403114201:web:c3dc35cfec3abdcdf510c8"
+  "apiKey": "AIzaSyAa79D1lwfKEHMCLRUgLxm7f9oLG9FeDI8",
+  "authDomain": "sayuwon-impression.firebaseapp.com",
+  "projectId": "sayuwon-impression",
+  "storageBucket": "sayuwon-impression.firebasestorage.app",
+  "messagingSenderId": "155403114201",
+  "appId": "1:155403114201:web:c3dc35cfec3abdcdf510c8",
 }
